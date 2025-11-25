@@ -42,7 +42,7 @@ const Footer = () => {
 
             <div className="space-y-4">
               <div className="flex items-start gap-3 justify-center lg:justify-start">
-                <MapPin className="w-5 h-5 flex-shrink-0 text-[hsl(var(--primary))]" />
+                <MapPin className="w-5 h-5 flex-shrink-0 text-white" />
                 <div className="text-white/90 text-sm sm:text-base leading-relaxed">
                   <p>Rua Cel. Joaquim Piza, 664</p>
                   <p>Centro, Garça - SP</p>
@@ -51,7 +51,7 @@ const Footer = () => {
               </div>
 
               <div className="flex items-center gap-3 justify-center lg:justify-start">
-                <Phone className="w-5 h-5 flex-shrink-0 text-[hsl(var(--primary))]" />
+                <Phone className="w-5 h-5 flex-shrink-0 text-white" />
                 <p className="text-white/90 text-sm sm:text-base">
                   (14) 99684-7415
                 </p>

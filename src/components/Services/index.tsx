@@ -24,7 +24,7 @@ export function Services() {
                                 className="w-full h-100 object-cover rounded-2xl"
                             />
                             <CardHeader className="p-0">
-                                <CardTitle className="text-lg font-bold">Clareamento &
+                                <CardTitle className="text-lg text-white font-bold">Clareamento &
                                     <span className="block">Lentes de Contato Dental</span> </CardTitle>
                             </CardHeader>
                             <CardContent className="p-0">
@@ -49,7 +49,7 @@ export function Services() {
                                 className="w-full h-100 object-cover rounded-2xl"
                             />
                             <CardHeader className="p-0">
-                                <CardTitle className="text-lg font-bold">Implante Dentário &
+                                <CardTitle className="text-lg text-white font-bold">Implante Dentário &
                                     <span className="block">Prótese Protocolo Fixo</span> </CardTitle>
                             </CardHeader>
                             <CardContent className="p-0">
@@ -78,7 +78,7 @@ export function Services() {
                                 className="w-full h-100 object-cover rounded-2xl"
                             />
                             <CardHeader className="p-0">
-                                <CardTitle className="text-lg font-bold">Aparelho Invisível &
+                                <CardTitle className="text-lg text-white font-bold">Aparelho Invisível &
                                     <span className="block">Tratamento Ortodôntico</span> </CardTitle>
                             </CardHeader>
                             <CardContent className="p-0">
