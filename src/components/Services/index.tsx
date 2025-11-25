@@ -35,11 +35,9 @@ export function Services() {
                                 </div>
                             </CardContent>
                             <CardFooter className="p-0">
-                                <Button className="w-full h-full flex justify-start p-0">
-                                    <p className="text-start font-medium text-md text-[#0B85FF] leading-[25px]">Saiba mais sobre Lentes e
-                                        <span className="block">Clareamento</span>
-                                    </p>
-                                </Button>
+                                <a href="https://clareamento.oinstitutodosorriso.com.br/" className="w-full h-full flex justify-start hover:underline p-0 text-start font-medium text-md text-[#0B85FF] leading-[25px]">Saiba mais sobre Clareamentos e <br />
+                                    Lentes de Contato Dental
+                                </a>
                             </CardFooter>
                         </Card>
                         <Card className="p-0 overflow-hidden group border-0 shadow-none">
@@ -64,11 +62,9 @@ export function Services() {
                                 </div>
                             </CardContent>
                             <CardFooter className="p-0">
-                                <Button className="w-full h-full flex justify-start p-0">
-                                    <p className="text-start font-medium text-md text-[#0B85FF] leading-[25px]">Saiba mais sobre Implantes e
-                                        <span className="block">Prótese Protocolo</span>
-                                    </p>
-                                </Button>
+                                <a href="https://implante.oinstitutodosorriso.com.br/" className="w-full h-full flex justify-start hover:underline p-0 text-start font-medium text-md text-[#0B85FF] leading-[25px]">Saiba mais sobre Implantes e <br />
+                                    Protése Protocolo
+                                </a>
                             </CardFooter>
                         </Card>
                         <Card className="p-0 overflow-hidden group border-0 shadow-none">
@@ -92,11 +88,9 @@ export function Services() {
                                 </div>
                             </CardContent>
                             <CardFooter className="p-0">
-                                <Button className="w-full h-full flex justify-start p-0">
-                                    <p className="text-start font-medium text-md text-[#0B85FF] leading-[25px]">Saiba mais sobre Ortodontia e 
-                                        <span className="block">Aparelho Invisível</span>
-                                    </p>
-                                </Button>
+                                <a href="https://ortodologia.oinstitutodosorriso.com.br/" className="w-full h-full flex justify-start hover:underline p-0 text-start font-medium text-md text-[#0B85FF] leading-[25px]">Saiba mais sobre Ortodologia e <br />
+                                    Aparelho Invisível
+                                </a>
                             </CardFooter>
                         </Card>
                     </div>
