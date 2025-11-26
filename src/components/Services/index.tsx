@@ -4,7 +4,7 @@ import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle }
 
 export function Services() {
     return (
-        <section className="py-16 w-full flex flex-col justify-center items-center px-12 md:py-24 bg-[#011331]" id="cases">
+        <section className="py-16 w-full flex flex-col justify-center items-center px-12 md:py-24 bg-[#011331]" id="services">
             <div className="container">
                 <div className="text-center text-white space-y-4 mb-12">
                     <p className="text-lg font-bold text-[#B9C2D8] max-w-2xl mx-auto">

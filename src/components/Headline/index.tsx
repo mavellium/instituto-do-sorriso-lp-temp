@@ -21,10 +21,11 @@ export function Headline() {
                         <span className="block text-[43px] sm:text-[50px] font-medium leading-14 sm:leading-12 md:leading-20 lg:leading-20 md:text-[82px] lg:text-[110px]">sorrisos em</span>
                     </h1>
                     <p className="font-heading font-medium tracking-tight text-[20px] sm:leading-5 md:leading-12 lg:leading-12 sm:text-xl md:text-[38px] lg:text-[48px] mt-4">Garça-SP com tecnologia e<span className="block">especialistas de alto padrão</span></p>
-
-                    <Button className="w-full max-w-[270px] sm:max-w-[230px] md:max-w-[400px] lg:max-w-[500px] h-9 md:h-12 text-white bg-[#0C8BD2] mt-8 md:mt-7 flex justify-center sm:justify-start rounded-full">
-                        <h1 className="text-[11px] w-full text-center sm:text-[10px] md:text-lg lg:text-xl font-medium">QUERO TRANSFORMAR MEU SORRISO</h1>
-                    </Button>
+                    <a href="#services">
+                        <Button className="w-full cursor-pointer max-w-[270px] sm:max-w-[230px] md:max-w-[400px] lg:max-w-[500px] h-9 md:h-12 text-white bg-[#0C8BD2] mt-8 md:mt-7 flex justify-center sm:justify-start rounded-full">
+                            <h1 className="text-[11px] w-full text-center sm:text-[10px] md:text-lg lg:text-xl font-medium">QUERO TRANSFORMAR MEU SORRISO</h1>
+                        </Button>
+                    </a>
                 </div>
             </div>
         </section>
